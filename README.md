@@ -1,5 +1,10 @@
 # Club_Intro
-This is for the year 2023-2024
+# You can see previous club projects here: 
+
+https://docs.google.com/spreadsheets/d/17Jn_arPWiVxhtPow_l92j_XQJd5cGNJ97a3n3ewvIm8/edit#gid=0
+
+
+_This is for the year 2023-2024_
 
 
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/3fa2c6df-20b2-424b-a522-0c8f4cd896d5)
