@@ -14,6 +14,6 @@ _This is for the year 2023-2024_
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/9f7a4b13-7a33-4538-9bdb-970f7fa56185)
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/aaf97f28-b021-4bf9-80d4-60339e2ab74a)
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/cc0c35ae-7e0f-4203-973a-9793b2e79973)
-![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/cb8af09b-5915-4344-9806-950d453438cd)
+![image](https://github.com/roboticsclubiitt/roboticsclubiitt/assets/117931123/39bbed5b-c346-49f2-b64d-174e711080e3)
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/20e9dafc-37dc-433c-a653-fe1059db698b)
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/69c87e9c-7599-418a-a840-7f6ab62c2885)
