@@ -6,6 +6,7 @@ https://docs.google.com/spreadsheets/d/17Jn_arPWiVxhtPow_l92j_XQJd5cGNJ97a3n3ewv
 
 _This is for the year 2023-2024_
 
+# Club PPT
 
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/3fa2c6df-20b2-424b-a522-0c8f4cd896d5)
 ![image](https://github.com/Techmaniacs-IITT/Club_Intro/assets/141650113/eb1df242-97be-4697-aae3-94ba546110df)
